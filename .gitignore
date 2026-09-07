@@ -1,0 +1,8 @@
+# Ignora tudo
+*
+
+# Exceto o arquivo .db
+!vagas_tech.db
+
+# Exceto o próprio .gitignore
+!.gitignore
